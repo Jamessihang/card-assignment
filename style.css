@@ -2,6 +2,8 @@ body {
     box-sizing: border-box;
     width: 100%;
     font-family: 'Inter', sans-serif;
+    position: relative;
+    left: 35%;
 }
 
 .rectangle1 {
@@ -84,7 +86,7 @@ body {
     width: 333px;
     height: 144px;
     margin: 362px 8px 94px 9px;
-    background: repeating-linear-gradient(#eaeaea 0.27%, #d9d9d9 99.77%);
+    background: linear-gradient(177deg, #eaeaea 0.27%, #d9d9d9 99.77%);
 
 }
 
