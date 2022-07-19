@@ -1,0 +1,124 @@
+body {
+    box-sizing: border-box;
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+}
+
+.rectangle1 {
+    position: absolute;
+    width: 350px;
+    height: 600px;
+    background-color: #EAEAEA;
+    border: 2px solid #d0d0d0;
+    box-shadow: 0px 0px 4px #b3b3b3;
+    border-radius: 20px;
+}
+
+.img {
+    position: absolute;
+    margin: 10px 8px 327px 9px;
+    width: 333px;
+    height: 263px;
+    border-radius: 13px;
+    background-image: url(card-img\ 1.png);
+    object-fit: fill;
+}
+
+.rectangle2 {
+    position: absolute;
+    width: 71px;
+    height: 21px;
+    background: #13c2c2;
+    border-radius: 10.5px;
+    margin: 295px 261px 284px 18px;
+}
+
+.nature {
+    position: absolute;
+    width: 39px;
+    height: 15px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #ffffff;
+    margin: 3px 16px;
+    text-align: center;
+}
+
+.rectangle3 {
+    position: absolute;
+    width: 71px;
+    height: 21px;
+    background: #1890ff;
+    border-radius: 10.5px;
+    margin: 295px 183px 284px 96px;
+}
+
+.lake {
+    position: absolute;
+    width: 27px;
+    height: 15px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #ffffff;
+    margin: 3px 22px;
+    text-align: center;
+}
+
+.ml {
+    position: absolute;
+    width: 190px;
+    height: 29px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #084150;
+    margin: 333px 142px 238px 18px;
+}
+
+.rectangle4 {
+    position: absolute;
+    width: 333px;
+    height: 144px;
+    margin: 362px 8px 94px 9px;
+    background: repeating-linear-gradient(#eaeaea 0.27%, #d9d9d9 99.77%);
+
+}
+
+.lorem {
+    position: absolute;
+    width: 311px;
+    height: 114px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: justify;
+    color: #0a4251;
+    margin: 10px 13px 20px 9px;
+}
+
+.rectangle5 {
+    position: absolute;
+    width: 156px;
+    height: 53px;
+    margin: 516px 97px 31px 97px;
+    border-radius: 57px;
+    background: #59889a;
+    border: none;
+}
+
+.read {
+    position: absolute;
+    width: 101px;
+    height: 24px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    color: #ffffff;
+    margin: 15px 27px 14px 28px;
+}
